@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    background-color: red;
+    font-size: 35px;
+}
+
+h2 {
+    text-align: center;
+}
+
+input {
+    cursor: pointer;
+}
